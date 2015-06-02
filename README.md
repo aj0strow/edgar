@@ -50,6 +50,14 @@ An entry looks like this.
 
 ### Install
 
-Coming soon.
+Available as a ruby gem from source. 
+
+```ruby
+gem 'edgar', github: 'aj0strow/edgar'
+```
+
+```
+$ bundle install
+```
 
 **MIT License**
